@@ -1,51 +1,81 @@
-Número de plugins: 11
+Número de plugins: 13
+Número de plugins activos: 11
 
-Akismet Anti-Spam
--Uso: Protección contra spam
--Desarrollador: Automattic
--Versión: 4.2.2
-
-BlockArt Blocks
--Uso: Herramienta de diseño con bloques de gutenberg
+1.BlockArt Blocks
+-Uso: Ayudan en la creación de páginas.
 -Desarrollador: WPBlockArt
 -Versión: 1.0.3
+-Activo?: Sí
 
-Elementor
+2.Connections Business Directory
+-Uso: Permite crear y visualizar en distintos modos los empleados de la empresa.
+-Desarrollador: Steven A. Zahm
+-Versión: 10.4.23
+-Activo?: Sí
+
+3.MetaSlider
+-Uso: Permite generar diferentes sliders e incluirlos en las páginas, con imágenes, enlaces y texto.
+-Desarrollador: MetaSlider
+-Versión: 3.27.5
+-Activo?: Sí
+
+4.Elementor
 -Uso: Herramienta de diseño (Maquetador de páginas)
 -Desarrollador: Elementor.com
 -Versión: 3.6.5
+-Activo?: Sí
 
-Hello Dolly
--Uso: Protección contra spam
--Desarrollador: Matt Mullenweg
--Versión: 1.7.2
+5.Responsive Accordion And Collapse
+-Uso: Permite crear un elemento extensible con un título siempre visible, y un cuerpo solo visible a la hora de clickar en él.
+-Desarrollador: Elementor.com
+-Versión: 3.6.5
+-Activo?: Sí
 
-Matomo Analytics - Estadísticas éticas. Insigths potentes.
--Uso: Control sobre los datos de la página y segurdidad de usuario
--Desarrollador: Matomo
--Versión: 4.6.0
+6.Plantillas de inicio
+-Uso: Disponibilidad de plantillas.
+-Desarrollador: wpshopmart
+-Versión: 2.3.3
+-Activo?: No
 
-Plantillas de inicio
--Uso: Disponibilidad de plantillas
--Desarrollador: Brainstorm Force
--Versión: 3.1.8
-
-The Events Calendar
--Uso: Capacidad de compartir eventos
+7.The Events Calendar
+-Uso: Calendario, gestión de eventos y sincronización de los mismos.
 -Desarrollador: The Events Calendar
--Versión: 5.14.2.1
+-Versión: 5.15.0.1
+-Activo?: Sí
 
-ThemeGrill Demo Importer
--Uso: Herramienta de diseño (Aporta widgets y temas)
+8.ThemeGrill Demo Importer
+-Uso: Herramienta de diseño para probar contenido de demostración.
 -Desarrollador: Automattic
 -Versión: 1.8.0
+-Activo?: No
 
-Ultimate Member
--Uso: Protección contra spam
+9.Ultimate Member
+-Uso: Permite gestionar de forma eficiente los usuarios, añadiendo permisos y opciones extra que no trae wordpress por defecto, además de controlar el registro e inicio de sesión.
 -Desarrollador: Ultimate Member
 -Versión: 2.3.2
+-Activo?: Sí
 
-WP Reset
--Uso: Posibilidad de restablecer y resetear modificaciones de diseño
+10.Weglot Translate
+-Uso: Traducción al inglés de la página.
+-Desarrollador: Equipo de Weglot Translate
+-Versión: 3.6.1
+-Activo?: Sí
+
+11.Wise Chat
+-Uso: Chat global de la página.
+-Desarrollador: Kainex
+-Versión: 2.9.7
+-Activo?: Sí
+
+12.WP Reset
+-Uso: Posibilidad de restablecer y resetear modificaciones de diseño.
 -Desarrollador: WebFactory Ltd
 -Versión: 1.95 
+-Activo?: Sí
+
+13.WPForms Lite
+-Uso: Formulario para solicitar datos al cliente.
+-Desarrollador: WPForms
+-Versión: 1.7.4.2
+-Activo?: Sí
+
